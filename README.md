@@ -1,0 +1,1 @@
+A project to start learning Scala with. Proxlet (http://proxlet.com) is what this wanted to be.
